@@ -1,4 +1,5 @@
-### My Stats : [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ian-callaghan)](https://git.io/streak-stats)
+### My Stats : 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ian-callaghan)](https://git.io/streak-stats)
 
 <!--
 **ian-callaghan/ian-callaghan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
