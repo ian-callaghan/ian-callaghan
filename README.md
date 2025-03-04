@@ -1,5 +1,5 @@
 ### My Stats : 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ian-callaghan)]
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ian-callaghan)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ian-callaghan&show_icons=true)
 
 <!--
